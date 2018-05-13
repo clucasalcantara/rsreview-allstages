@@ -1,0 +1,33 @@
+.filters {
+  padding: .5rem;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
+
+.cousines .neighborhoods {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+select {
+  margin-top: .5rem;
+  margin-left: .5rem;
+  color: white;
+}
+
+@media (min-width: 736px) {
+  select {
+    color: black;
+  }  
+}
+
+.filters-title {
+  padding-bottom: .5em;
+}
+
+.neighborhoods {
+  padding-left: 1rem;
+}

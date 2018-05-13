@@ -1,0 +1,96 @@
+/* .restaurant-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.restaurant--image {
+  top: 0;
+  left: 0;
+  height: 300px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.restaurant-info {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.restaurant--name {
+  position: relative;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+button {
+  padding: 1rem 0;
+  font-size: .9rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  align-content: center;
+  width: 100%;
+}
+
+.isFavorite {
+  color: red;
+}
+
+.toFavorite {
+  color: green;
+} */
+.restaurant-detail {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+}
+
+.restaurant--image {
+  top: 0;
+  left: 0;
+  height: 200px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.restaurant-info {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+}
+
+.restaurant--name {
+  position: relative;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+button {
+  padding: 1rem 0;
+  font-size: .9rem;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  align-content: center;
+  width: 100%;
+}
+
+.review-restaurant {
+  position: absolute;
+  width: auto;
+  bottom: 20rem;
+}
+
+.isFavorite {
+  color: red;
+}
+
+.toFavorite {
+  color: green;
+}
